@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chaopheitu.ftc6085.org/sitemap.xml
